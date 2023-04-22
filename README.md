@@ -4,13 +4,9 @@ It took me 45 days. 22.11.2022 - 05.01.2023
 
 
 <table>
-<tr>
-<th> Chapter </th>
-<th> Solution </th>
-</tr>
   <tr>
-    <td> Title </td>
-    <td> Chapter without assignments </td>
+    <th> Chapter </th>
+    <th> Solution </th>
   </tr>
   <tr>
     <td> 1. Getting Started </td>
