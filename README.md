@@ -1,7 +1,7 @@
 # StephenPrataEditionVI
-My solutions to assignments from the book titled "C++ Primer Plus. Sixth Edition - Stephen Prata"
-It took me 45 days. 22.11.2022 - 05.01.2023
-
+My solutions to assignments from the book titled "C++ Primer Plus. Sixth Edition - Stephen Prata"<br/>
+It took me 45 days. 22.11.2022 - 05.01.2023<br/>
+All tasks are in Polish
 
 <table>
   <tr>
